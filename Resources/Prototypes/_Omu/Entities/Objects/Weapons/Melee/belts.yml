@@ -188,7 +188,7 @@
     angle: 0
     damage:
       types:
-        Blunt: 12
+        Blunt: 7
     attackRate: 0.7
     soundHit:
       path: /Audio/_Goobstation/Weapons/Baton/woodhit.ogg
