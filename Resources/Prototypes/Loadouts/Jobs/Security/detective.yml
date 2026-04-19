@@ -136,3 +136,13 @@
   id: DetectiveCoatGrey
   equipment:
     outerClothing: ClothingOuterCoatDetectiveLoadoutGrey
+
+- type: loadout
+  id: AerostaticJacket
+  equipment:
+    outerClothing: ClothingOuterCoatBomberAerostatic # omu
+
+- type: loadout
+  id: JamrockBlazer
+  equipment:
+    outerClothing: ClothingOuterCoatJacketJamrock # omu
