@@ -138,11 +138,11 @@
     outerClothing: ClothingOuterCoatDetectiveLoadoutGrey
 
 - type: loadout
-  id: AerostaticJacket
+  id: AerostaticJacketArmored
   equipment:
-    outerClothing: ClothingOuterCoatBomberAerostatic # omu
+    outerClothing: ClothingOuterCoatArmoredAerostaticBomber # omu
 
 - type: loadout
-  id: JamrockBlazer
+  id: JamrockBlazerArmored
   equipment:
-    outerClothing: ClothingOuterCoatJacketJamrock # omu
+    outerClothing: ClothingOuterCoatArmoredJamrockBlazer # omu

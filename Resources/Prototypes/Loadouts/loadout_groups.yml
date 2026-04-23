@@ -1523,8 +1523,8 @@
   - DetectiveCoat
   - DetectiveCoatGrey
   - DetectiveWinterCoatDV # Omu
-  - AerostaticJacket # omu
-  - JamrockBlazer # omu
+  - AerostaticJacketArmored # omu
+  - JamrockBlazerArmored # omu
 
 - type: loadoutGroup
   id: SecurityCadetJumpsuit
