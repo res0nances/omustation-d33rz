@@ -252,7 +252,7 @@
 
 - type: entity
   id: ClothingOuterCoatArmoredJamrockBlazer
-  parent: [ClothingOuterStorageBase, AllowSuitStorageClothing, ClothingOuterArmorBase]
+  parent: [ClothingOuterCoatDetective]
   name: armored jamrock blazer
   description: It reminds you there are no truces with the furies.
   components:
@@ -260,23 +260,10 @@
     sprite: _NF/Clothing/OuterClothing/Coats/blazer_jamrock.rsi
   - type: Clothing
     sprite: _NF/Clothing/OuterClothing/Coats/blazer_jamrock.rsi
-  - type: Armor
-    coverage:
-    - Chest
-    - Groin
-    - Tail
-    - Arm
-    - Leg
-    modifiers:
-      coefficients:
-        Blunt: 0.65
-        Slash: 0.65
-        Piercing: 0.65
-        Heat: 0.7
 
 - type: entity
   id: ClothingOuterCoatArmoredAerostaticBomber
-  parent: [ClothingOuterStorageBase, AllowSuitStorageClothing, ClothingOuterArmorBase]
+  parent: [ClothingOuterCoatDetective]
   name: armored aerostatic bomber
   description: Wearing this jacket makes you feel stoic.
   components:
@@ -284,16 +271,3 @@
     sprite: _NF/Clothing/OuterClothing/Coats/bomber_aerostatic.rsi
   - type: Clothing
     sprite: _NF/Clothing/OuterClothing/Coats/bomber_aerostatic.rsi
-  - type: Armor
-    coverage:
-    - Chest
-    - Groin
-    - Tail
-    - Arm
-    - Leg
-    modifiers:
-      coefficients:
-        Blunt: 0.65
-        Slash: 0.65
-        Piercing: 0.65
-        Heat: 0.7
