@@ -3886,3 +3886,9 @@ Entries:
         allows you to cast your own basic spells!
   id: 493
   time: '2026-05-09T22:38:49.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Remove
+      message: Removed one leftover unintended spawner for plague mice.
+  id: 494
+  time: '2026-05-09T23:00:23.0000000+00:00'
