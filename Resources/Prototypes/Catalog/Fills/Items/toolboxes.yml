@@ -226,6 +226,7 @@
     - id: Wirecutter
     - id: Welder
     - id: Multitool
+    - id: RemoteSignallerAdvanced
     - id: ClothingHandsGlovesCombat
     - id: ClothingMaskGasSyndicate
   - type: StaticPrice
