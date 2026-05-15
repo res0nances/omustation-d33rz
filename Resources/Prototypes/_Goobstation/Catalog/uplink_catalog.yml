@@ -101,7 +101,7 @@
   categories:
     -  UplinkDisruption
 
-# - type: listing  |||| This thing is genuine bloat. I hate to call something bloat but this is bloat.
+# - type: listing  # Omu, remove this as its not needed anymore.
   #id: UplinkRemoteSignallerAdvanced
   #name: uplink-signaller-name
   #description: uplink-signaller-desc
