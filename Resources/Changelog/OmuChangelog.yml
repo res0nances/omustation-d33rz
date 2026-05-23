@@ -4156,3 +4156,9 @@ Entries:
       message: added the expedition console and salvage magnet to the nt-reclaimer
   id: 528
   time: '2026-05-23T16:21:11.0000000+00:00'
+- author: ishkab
+  changes:
+    - type: Fix
+      message: HEV helmet now covers the head
+  id: 529
+  time: '2026-05-23T21:38:22.0000000+00:00'
