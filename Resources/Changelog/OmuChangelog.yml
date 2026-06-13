@@ -4500,3 +4500,9 @@ Entries:
         all other CC roles, and nukies).
   id: 576
   time: '2026-06-13T09:39:34.0000000+00:00'
+- author: feistyfedora
+  changes:
+    - type: Add
+      message: Cyborg's can now choose a hat in their loadout.
+  id: 577
+  time: '2026-06-13T10:16:22.0000000+00:00'
