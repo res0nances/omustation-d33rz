@@ -4466,3 +4466,23 @@ Entries:
       message: Added DarkIvory47's "Bar Shenanigans" art to the lobby rotation.
   id: 573
   time: '2026-06-12T15:53:11.0000000+00:00'
+- author: SirCannonFodder
+  changes:
+    - type: Add
+      message: Medical cyborg surgery modules are now faster and easier to use!
+    - type: Add
+      message: Medical cyborg surgery modules now include a health analyzer.
+    - type: Add
+      message: >-
+        Medical cyborg chemistry modules now have more vials for chemical
+        storage
+    - type: Remove
+      message: >-
+        Cyborg hypo-spray from the right now unobtainable advanced chemistry
+        module
+    - type: Fix
+      message: >-
+        The whitelist of the "hand" slot in cyborg surgery modules has been
+        updated to fix issues where it couldn't pick up items it really should.
+  id: 574
+  time: '2026-06-13T09:27:28.0000000+00:00'
